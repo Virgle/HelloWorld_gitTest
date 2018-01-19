@@ -57,5 +57,8 @@ public class MainActivity extends AppCompatActivity {
         
         // Changed in master branch directly
         int j = 0;
+
+        // Pushing from local directly
+        int k = 0;
     }
 }

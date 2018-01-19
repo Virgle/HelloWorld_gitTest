@@ -54,5 +54,8 @@ public class MainActivity extends AppCompatActivity {
 
         // My first git push
         int i = 0;
+        
+        // Changed in master branch directly
+        int j = 0;
     }
 }

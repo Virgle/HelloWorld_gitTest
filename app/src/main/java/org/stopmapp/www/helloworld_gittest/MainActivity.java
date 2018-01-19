@@ -84,4 +84,8 @@ public class MainActivity extends AppCompatActivity {
     public void addBoolean(){
         // Added boolean to master branch
     }
+
+    public void codeReviewBranch2(){
+        // Submit this for code review to Senior developer
+    }
 }

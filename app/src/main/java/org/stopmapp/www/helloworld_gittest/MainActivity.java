@@ -80,4 +80,8 @@ public class MainActivity extends AppCompatActivity {
     public void branch1(){
         // Added Branch1 function
     }
+
+    public void addBoolean(){
+        // Added boolean to master branch
+    }
 }

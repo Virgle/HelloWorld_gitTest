@@ -71,4 +71,9 @@ public class MainActivity extends AppCompatActivity {
 
         // Changed in local
     }
+
+    public void function2(){
+        // Just to compare the with the other branches
+
+    }
 }

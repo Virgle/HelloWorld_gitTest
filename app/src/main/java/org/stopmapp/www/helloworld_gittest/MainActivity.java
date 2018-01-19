@@ -71,4 +71,17 @@ public class MainActivity extends AppCompatActivity {
 
         // Changed in local
     }
+
+    public void function2(){
+        // Just to compare the with the other branches
+
+    }
+
+    public void branch1(){
+        // Added Branch1 function
+    }
+
+    public void addBoolean(){
+        // Added boolean to master branch
+    }
 }
